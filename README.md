@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a passionate and detail-oriented Frontend / Full-Stack Developer with a strong focus on building responsive, user-friendly web applications. My core strengths lie in JavaScript, React, Angular, and modern UI/UX development practices.<br><br>On the backend, I work with Python and Django, creating secure and scalable RESTful APIs that power full-stack applications. I enjoy solving real-world problems through code and strive to write clean, maintainable, and efficient solutions.<br><br>💻 Tech Stack:<br>▪ Frontend: HTML5, CSS3, JavaScript, React.js, Angular<br>▪ Backend: Python, Django, Django REST Framework<br>▪ Tools: Git, GitHub, Postman, VS Code, REST APIs
+I’m a passionate and detail-oriented Frontend / Full-Stack Developer with a strong focus on building responsive, user-friendly web applications. My core strengths lie in JavaScript, React, Angular, and modern UI/UX development practices.<br><br>On the backend, I work with Python and Django, creating secure and scalable RESTful APIs that power full-stack applications. I enjoy solving real-world problems through code and strive to write clean, maintainable, and efficient solutions.<br><br>💻 Tech Stack:<br>▪ Frontend: HTML5, CSS3, JavaScript, React.js, Angular, Next.js<br>▪ Backend: Python, Django, Django REST Framework<br>▪ Tools: Git, GitHub, Postman, VS Code, REST APIs
 
 
 ## 🌐 Socials:
